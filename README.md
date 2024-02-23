@@ -8,7 +8,8 @@ Welcome to onnxruntime dynamic model, a project aimed at providing a comprehensi
 
 The goal of this project is to fill the gap in available guides and resources by providing a clear and concise example of running a model with dynamic input using onnxruntime. This project aims to simplify the process and provide a helpful resource for developers and researchers who are working with dynamic inputs in their models.
 For find the dimonsions of your model, you can use [netron](https://netron.app/). If dimonsions of the input of the model was "?", This model has dynamic input. 
-![Alt text]([image link](https://onnxruntime.ai/images/model-with-dynamic-inputs.png))
+![image](https://github.com/mohsensafaei/Dynamic-Input-onnxruntime/assets/85816278/2da5cda5-751d-4370-a6fd-89298ae0a9f6)
+
 
 ## Setup
 
