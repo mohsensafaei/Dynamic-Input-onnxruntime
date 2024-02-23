@@ -1,12 +1,14 @@
-# Dynamic Input ONNXRuntime Learning Model
+# Dynamic Input ONNXRuntime
 
 ## Introduction
 
-Welcome to dynamic input onnxruntime, a project aimed at providing a comprehensive guide and implementation for running a model with dynamic input via onnxruntime.
+Welcome to onnxruntime dynamic model, a project aimed at providing a comprehensive guide and implementation for running a model with dynamic input via onnxruntime.
 
 ## Overview
 
 The goal of this project is to fill the gap in available guides and resources by providing a clear and concise example of running a model with dynamic input using onnxruntime. This project aims to simplify the process and provide a helpful resource for developers and researchers who are working with dynamic inputs in their models.
+For find the dimonsions of your model, you can use [netron](https://netron.app/). If dimonsions of the input of the model was "?", This model has dynamic input. 
+![Alt text]([image link](https://onnxruntime.ai/images/model-with-dynamic-inputs.png))
 
 ## Setup
 
@@ -28,6 +30,7 @@ To get started with this project, follow these steps:
     cmake ..
     make
     ```
+
 ## Directory Tree
 ```bash
 project structure:
