@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 
 3. **Download the Model**: Obtain the ONNX model you want to use with dynamic input support and place it in the appropriate directory within the project structure.
 
-4. **Run the Example**: Execute the provided example script to see how to run a model with dynamic input:
+4. **Run the Code**: Execute the provided example script to see how to run a model with dynamic input:
 
     ```bash
     mkdir build && cd build
