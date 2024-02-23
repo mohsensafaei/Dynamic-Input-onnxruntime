@@ -29,6 +29,7 @@ To get started with this project, follow these steps:
     make
     ```
 
+```bash
 project structure:
 |
 |__ src/
@@ -39,3 +40,4 @@ project structure:
 |
 |__ README.md
 |__ CMakeLists.txt
+```
