@@ -1,4 +1,4 @@
-# Dynamic Input Deep Learning Model
+# Dynamic Input ONNXRuntime Learning Model
 
 ## Introduction
 
@@ -28,3 +28,14 @@ To get started with this project, follow these steps:
     cmake ..
     make
     ```
+
+project structure:
+|
+|__ src/
+|   |__ main.cpp
+|
+|__ include/
+|   |__ RunModel.h
+|
+|__ README.md
+|__ CMakeLists.txt
