@@ -1,4 +1,4 @@
-#include "runModel.h"
+#include "RunModel.h"
 
 
 int main()
